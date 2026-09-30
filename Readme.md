@@ -1,3 +1,6 @@
+> **This repository has moved and is now read-only.** Development continues at
+> https://github.com/MiSTer-devel/Arcade-Leland_MiSTer. Please file issues and pull requests there.
+
 # Leland - MiSTer FPGA Core
 
 MiSTer core for the Cinematronics / Leland Cinemat System arcade hardware, as
